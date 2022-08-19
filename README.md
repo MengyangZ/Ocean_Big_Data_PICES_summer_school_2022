@@ -2,8 +2,7 @@
 
 This notebook includes data analysis and visualization for 2 glider datasets from Washington continetal shelf. 
 1. Map
-
-![map](https://user-images.githubusercontent.com/47376014/185693325-8a0667c4-f115-4562-822b-e0b10ab44c81.png)
+![map](https://user-images.githubusercontent.com/47376014/185693438-00357b89-ac79-4c46-868c-8d02661dfc6e.png)
 
 2. Data interpolation
 3. Section plots
